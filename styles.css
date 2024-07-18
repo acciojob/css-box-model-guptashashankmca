@@ -1,26 +1,24 @@
 #div1{
-	border: 1px solid black;
+	border: 5px solid rgb(0, 0, 255);
 	width:300px;
 	background-color:lightblue;
 }
 #div2{
+	
 	margin:20px;
 	border:15px solid blue;
 	background-color:gray;
+borde:5px solid rgb(0, 0, 255);
 }
 #div3{
 	padding:50px;
-	border:1px solid black;
-	margin-left:20px;
-	margin-bottom:20px;
-	margin-right:20px;
-	
+	border:5px solid rgb(0, 0, 255);
 }
 #div4{
 	border:1px solid black;
-	margin-left:20px;
-	margin-bottom:30px;
+	border:5px solid rgb(0, 0, 255);
 }
 #div5{
 	border:1px dashed black;
+	border:5px solid rgb(0, 0, 255);
 	}
