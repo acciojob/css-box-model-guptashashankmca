@@ -1,2 +1,30 @@
+#div1{
+	border: 1px solid black;
+}
+#div2{
+	margin:20px;
+	border:15px solid blue;
+}
+#div3{
+	padding:50px;
+	border:1px solid black;
+	margin-left:20px;
+	margin-bottom:20px;
+	margin-right:20px;
+}
+#div4{
+	border:1px solid black;
+	margin-left:20px;
+	margin-bottom:30px;
+}
+#div5{
+	border:1px dashed black;
+	margin-left:60px;
+	margin-right:20px;
+	margin-bottom:20px;
+	text-align:center;
+	width:300px;
+	}
 
-/* Your CSS Code here. */
+
+
